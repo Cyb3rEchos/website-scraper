@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+requests==2.31.0
+Pillow==10.2.0
+urllib3==2.2.1
+python-dotenv==1.0.1
+tqdm==4.66.2 
